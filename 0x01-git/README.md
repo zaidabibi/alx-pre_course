@@ -1,1 +1,1 @@
-my second commit
+This project is about what source code management is, The difference between Git and Github, how to create repositories, README's, how to commit and write helpful commit messages as well as how to collaborate on projects.
